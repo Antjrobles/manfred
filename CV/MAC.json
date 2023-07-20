@@ -59,6 +59,12 @@
           "name": "Linux",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
