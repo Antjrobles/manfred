@@ -1,0 +1,141 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Antonio",
+      "surnames": "Robles",
+      "title": "Técnico de programación y operaciones en el Aeropuerto de Málaga.",
+      "description": "Me complace dirigirme a ustedes como un entusiasta y dedicado profesional de TI en busca de oportunidades laborales en el ámbito del desarrollo de software y la tecnología. \nA lo largo de los últimos dos años, me he dedicado a prepararme y aprender con el objetivo de adquirir habilidades sólidas en programación y tecnologías relacionadas con el mundo de TI. Durante mi trayecto de aprendizaje, he trabajado en proyectos prácticos que me han permitido obtener una comprensión profunda de los fundamentos de la programación y la arquitectura de sistemas. \nAdemás de mis habilidades técnicas, también poseo habilidades interpersonales y de colaboración que considero esenciales para tener éxito en un entorno de trabajo remoto. Tengo una actitud proactiva, una fuerte ética de trabajo y la capacidad de trabajar de manera independiente y en equipo. Me adapto rápidamente a nuevos entornos y desafíos, y estoy constantemente buscando oportunidades para aprender y crecer profesionalmente.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Filología Inglesa",
+        "startDate": "2008-09-01",
+        "institution": {
+          "name": "UNED"
+        },
+        "finishDate": "2012-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/antonio-robles-0aa29747/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "antjrobles@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "677586394",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Grafana",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Prometheus",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Actualmente tengo un trabajo estable que me encanta y que gracias al horario que tiene, a turnos, me permite tener cierto tiempo libre y poder compaginar con otras actividades. Por lo que me mi objetivo como \"trabajo ideal\" en este sentido sería algo totalmente remoto y que no tiene que ser a tiempo completo, puede ser a tiempo parcial que me permita compaginar y tener ingresos extras. Con esto quiero decir, que mi objetivo, por el momento, no es el dinero. Me encanta la tecnología y me gustaría probar, y quien sabe si en un futuro, dedicarme a ella 100%."
+  }
+}
